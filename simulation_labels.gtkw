@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Sat Apr 10 18:16:26 2021
+[*]
+[dumpfile] "/home/cez/Desktop/facultate/vlsi/divider_tb.vcd"
+[dumpfile_mtime] "Sat Apr 10 17:49:04 2021"
+[dumpfile_size] 18599
+[savefile] "/home/cez/Desktop/facultate/vlsi/withlabels.gtkw"
+[timestart] 17200
+[size] 1295 806
+[pos] -1 -1
+*-11.209117 19340 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] CircuitTB.
+[treeopen] CircuitTB.dividerInstance.
+[treeopen] CircuitTB.dividerInstance.dpInstance.
+[sst_width] 211
+[signals_width] 297
+[sst_expanded] 1
+[sst_vpaned_height] 219
+@24
+CircuitTB.dividerInstance.dpInstance.aluInstance.A[7:0]
+CircuitTB.dividerInstance.dpInstance.aluInstance.B[7:0]
+CircuitTB.dividerInstance.dpInstance.aluInstance.C[7:0]
+CircuitTB.dividerInstance.dpInstance.aluInstance.D[7:0]
+CircuitTB.dividerInstance.dpInstance.aluInstance.IMM[7:0]
+@28
+CircuitTB.dividerInstance.dpInstance.aluInstance.operation[2:0]
+@200
+-
+@28
+CircuitTB.dividerInstance.ucInstance.FSM1_current_state[3:0]
+CircuitTB.dividerInstance.ucInstance.FSM1_next_state[3:0]
+CircuitTB.dividerInstance.ucInstance.FSM2_current_state[6:0]
+CircuitTB.dividerInstance.ucInstance.FSM2_next_state[6:0]
+@200
+-
+@28
+CircuitTB.dividerInstance.ucInstance.sel_mux_1
+CircuitTB.dividerInstance.ucInstance.sel_mux_2[1:0]
+CircuitTB.dividerInstance.ucInstance.sel_mux_3[1:0]
+CircuitTB.dividerInstance.ucInstance.sel_mux_4
+@200
+-
+@28
+CircuitTB.dividerInstance.ucInstance.GE
+@29
+CircuitTB.dividerInstance.ucInstance.NZ
+@200
+-Result
+@24
+CircuitTB.Q[7:0]
+CircuitTB.R[7:0]
+@200
+-Mem
+@24
+CircuitTB.dividerInstance.dpInstance.regInstance.reg0[7:0]
+CircuitTB.dividerInstance.dpInstance.regInstance.reg1[7:0]
+CircuitTB.dividerInstance.dpInstance.regInstance.reg2[7:0]
+CircuitTB.dividerInstance.dpInstance.regInstance.reg3[7:0]
+@28
+CircuitTB.dividerInstance.finish
+[pattern_trace] 1
+[pattern_trace] 0
